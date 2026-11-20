@@ -26,7 +26,7 @@ I'm looking for internships and entry-level roles in game development, C# / Unit
 ## 📫 Contact
 
 - **Email:** laxmanbeerkula@gmail.com
-- **LinkedIn:** [laxman-beerkula-b83947305](https://www.linkedin.com/in/laxman-beerkula-b83947305/)
+- **LinkedIn:** [laxmanbirkula](https://www.linkedin.com/in/laxmanbirkula/)
 - **GitHub:** [@LAXMAN-BIRKULA](https://github.com/LAXMAN-BIRKULA)
 
 ⭐ If you try Sky Hopper, I'd love to hear what you think!
